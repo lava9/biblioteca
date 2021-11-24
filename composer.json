@@ -1,0 +1,15 @@
+{
+    "name": "laura/biblioteca",
+    "autoload": {
+        "psr-4": {
+            "Laura\\Biblioteca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Laura Vaquero Sánchez",
+            "email": "l.vaquero.9@gmail.com"
+        }
+    ],
+    "require": {}
+}
